@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+
+body {
+  text-align: center;
+  font-family: Roboto Mono, sans-serif;
+  margin: 20px;
+  background-color: #000b58;
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+  color: #98ded9;
+  font-size: 30px;
+}
+
+input,
+button {
+  padding: 30px;
+  margin-bottom: 15px;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+img {
+  width: 150px;
+  height: auto;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  color: #98ded9;
+  font-size: 30px;
+}
