@@ -10,18 +10,18 @@ body {
 label {
   display: block;
   margin: 5px 0 5px;
-  color: #98ded9;
-  font-size: 30px;
+  color: #00bfff;
+  font-size: 25px;
 }
 
 input,
 button {
-  padding: 30px;
+  padding: 20px;
   margin-bottom: 15px;
   width: 100%;
-  max-width: 300px;
+  max-width: 250px;
   border-radius: 5px;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 button {
@@ -39,10 +39,15 @@ img {
 
 h1 {
   color: white;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 h2 {
-  color: #98ded9;
-  font-size: 30px;
+  color: #00bfff;
+  font-size: 20px;
+}
+
+#clock {
+  font-size: 20px;
+  color: white;
 }
