@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Geist+Mono:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Geist+Mono:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
 body {
   text-align: center;
   font-family: Roboto Mono, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url("Gambar/wallpaper.png");
+  background-image: url("Gambar/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
