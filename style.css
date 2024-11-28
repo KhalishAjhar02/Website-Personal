@@ -67,7 +67,3 @@ h2 {
 input {
   background-color: transparent;
 }
-
-input[type="number"] {
-  color: white;
-}
